@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# reference: https://github.com/bertrandmartel/raspberry-spycam
+
 basePath=$(pwd)
 downloadsDir=${basePath}/downloads
 
